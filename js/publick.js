@@ -27,13 +27,13 @@
               }, 'json')
           })
       })
-      layui.use(['form'], function () {
-        var form = layui.form();
-        form.on('select(groupNav)', function (obj) {
-          var url = "后台" + obj.value;
-          location.href= url;
-        })
-      })
+//       layui.use(['form'], function () {
+//         var form = layui.form();
+//         form.on('select(groupNav)', function (obj) {
+//           var url = "后台" + obj.value;
+//           location.href= url;
+//         })
+//       })
 
 
   // 搜索框显示
