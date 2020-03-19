@@ -1,0 +1,72 @@
+{
+  "id": "1694182",
+  "name": "抖音模版",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "386486",
+      "name": "朋友圈",
+      "font_class": "pengyouquan",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "5652667",
+      "name": "转发-线",
+      "font_class": "zhuanfa-xian",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1067011",
+      "name": "关闭",
+      "font_class": "Close",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "356524",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "778493",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "1127354",
+      "name": "信息提示",
+      "font_class": "message",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1929167",
+      "name": "转发",
+      "font_class": "zhuanfa",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "6099320",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1221889",
+      "name": "礼物",
+      "font_class": "gift",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}
